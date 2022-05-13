@@ -1,0 +1,18 @@
+
+█▀▄▀█ █▀▀ █▀▄ █ █▀▀ █▄░█ █▀▀ ▄▀█ █▀█ █▄▄ █▀▀ █▄░█
+█░▀░█ ██▄ █▄▀ █ ██▄ █░▀█ █▀░ █▀█ █▀▄ █▄█ ██▄ █░▀█
+
+# medienfarben
+
+## Welcome
+This is a very smol capsule in a smol space.
+
+## Personal Links
+=> norden.social/@barning    Me on Mastodon
+
+## Other capsules I found
+
+=> gemini://kat3r.uber.space:43080 eichkat3r
+=> gemini://gemini.uber.space:41240/ How to host Gemini on Uberspace
+=> gemini://koyu.space koyu.space
+=> gemini://tilde.pink/~kubikpixel/ kubikpixel
