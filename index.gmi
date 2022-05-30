@@ -1,6 +1,9 @@
-
+```ASCII art
 █▀▄▀█ █▀▀ █▀▄ █ █▀▀ █▄░█ █▀▀ ▄▀█ █▀█ █▄▄ █▀▀ █▄░█
 █░▀░█ ██▄ █▄▀ █ ██▄ █░▀█ █▀░ █▀█ █▀▄ █▄█ ██▄ █░▀█
+
+
+```
 
 # medienfarben
 
@@ -9,6 +12,7 @@ This is a very smol capsule in a smol space.
 
 ## Personal Links
 => norden.social/@barning    Me on Mastodon
+=> https://github.com/barning/medienfarben-gemini    This capsule on github
 
 ## Other capsules I found
 
